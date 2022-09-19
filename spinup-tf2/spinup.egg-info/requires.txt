@@ -1,0 +1,14 @@
+cloudpickle>=0.5.2
+gym
+ipython
+joblib
+matplotlib
+mpi4py
+numpy
+pandas
+pytest
+psutil
+scipy
+seaborn>=0.8.1
+tensorflow
+tqdm
