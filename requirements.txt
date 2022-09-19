@@ -1,0 +1,15 @@
+numpy
+matplotlib
+future
+tf_agents[reverb]
+tensorflow
+scipy
+gym
+tqdm
+mypy
+noise
+joblib
+pylint
+cpprb
+tensorflow-probability
+tensorflow-addons
